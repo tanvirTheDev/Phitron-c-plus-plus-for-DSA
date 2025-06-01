@@ -74,6 +74,7 @@
   "window.zoomLevel": 1,
   "files.autoSave": "afterDelay",
   "files.associations": {
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "valarray": "cpp"
   }
 }
