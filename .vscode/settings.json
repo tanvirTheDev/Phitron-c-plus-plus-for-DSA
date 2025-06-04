@@ -75,6 +75,8 @@
   "files.autoSave": "afterDelay",
   "files.associations": {
     "iostream": "cpp",
-    "valarray": "cpp"
-  }
+    "valarray": "cpp",
+    "ostream": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
