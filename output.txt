@@ -1,2 +1,5 @@
-icpcAssiut
-egypt
+YES
+NO
+YES
+YES
+NO
