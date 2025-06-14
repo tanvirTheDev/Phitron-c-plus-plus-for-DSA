@@ -1,5 +1,3 @@
-YES
-NO
-YES
-YES
-NO
+tanvir 3 89
+rakib 1 95
+asif 2 97
