@@ -106,8 +106,6 @@ Each module contains `.cpp` source files and compiled `.exe` files for Windows.
    ./example.exe
    ```
 
-
-
 ## Contact
 
 **Author:** [Tanvir Ahamed]  
@@ -119,11 +117,10 @@ Each module contains `.cpp` source files and compiled `.exe` files for Windows.
 ## Acknowledgments
 
 - [Phitron](https://phitron.io/) for the course content and platform
-- [Mahmud Pias](https://www.linkedin.com/in/mahmudpias/) for instruction and mentorship
+- [Mahmud Pias](https://www.linkedin.com/in/mahmud-hossain-pias) for instruction and mentorship
 
 ---
 
 > _This repository demonstrates my commitment to mastering C++ and DSA, and is a testament to my ability to learn, implement, and organize complex programming concepts in a professional manner._
 
 ---
-
