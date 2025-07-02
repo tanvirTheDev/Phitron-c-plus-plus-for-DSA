@@ -91,7 +91,7 @@ Each module contains `.cpp` source files and compiled `.exe` files for Windows.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/phitron-cpp-dsa.git
+   git clone https://github.com/tanvirTheDev/Phitron-c-plus-plus-for-DSA.git
    ```
 2. **Navigate to a module:**
    ```bash
@@ -106,20 +106,13 @@ Each module contains `.cpp` source files and compiled `.exe` files for Windows.
    ./example.exe
    ```
 
----
 
-## Certificate
-
-![Certificate](./assets/certificate.png)
-_See the attached certificate for course completion and grade._
-
----
 
 ## Contact
 
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile]  
-**Email:** your.email@example.com
+**Author:** [Tanvir Ahamed]  
+**LinkedIn:** [https://www.linkedin.com/in/tanvirthedev]  
+**Email:** ahamedtanvir374@gmail.com
 
 ---
 
@@ -134,8 +127,3 @@ _See the attached certificate for course completion and grade._
 
 ---
 
-**Instructions for attaching your certificate:**
-
-1. Create a folder named `assets` in your repo.
-2. Place your certificate image (e.g., `certificate.png`) inside the `assets` folder.
-3. The README will display your certificate as shown above.
